@@ -1,7 +1,7 @@
 # giua@school ![GitHub release (latest by date)](https://img.shields.io/github/v/release/iisgiua/giuaschool)
 
 *la demo del Registro Elettronico open source dell'Istituto di Istruzione Superiore "Michele Giua"*
-registro2324.altervista.org/public
+sito demo: registro2324.altervista.org/public
 per avere le credenziali contattare fcoco953@gmail.com
 questa demo è autorizzata da antonello dessì
 [![Test and deploy](https://github.com/iisgiua/giuaschool/actions/workflows/test-deploy.yml/badge.svg?branch=master)](https://github.com/iisgiua/giuaschool/actions/workflows/test-deploy.yml)
